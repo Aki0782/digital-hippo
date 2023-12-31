@@ -16,7 +16,8 @@
         "singleQuote": false,
         "arrowParens": "always",
         "semi": true,
-        "trailingComma": "none"
+        "trailingComma": "none",
+        "printWidth": 80
       }
     ],
     "jsx-a11y/click-events-have-key-events": "off",
